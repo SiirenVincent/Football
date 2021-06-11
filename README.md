@@ -18,9 +18,11 @@ In this project we use
 # Source of Data
 
 Naive Bayes classifier
+
   Spam dataset: https://archive.ics.uci.edu/ml/datasets/Spambase 
 
 KNN:
+
   Train dataset: https://archive.org/download/train5_202002/train%20%285%29.csv
 
   Test dataset:https://archive.org/download/test1_202002/test%20%281%29.csv
